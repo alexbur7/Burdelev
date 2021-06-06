@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinkoffLab</string>
+    <string name="developers_life">Developers LIfe</string>
+    <string name="last">Последние</string>
+    <string name="hot">Горячие</string>
+    <string name="top">Лучшие</string>
+    <string name="error_with_network">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="repeat">Повторить</string>
+    <string name="check_network">Проверьте соединение с интернетом</string>
+</resources>
